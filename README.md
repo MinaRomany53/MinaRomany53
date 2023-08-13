@@ -9,6 +9,8 @@
 />
 
 
+
+
 - 🔭 I’m currently working on [Travelogue Tracker](https://github.com/MinaRomany53/ReactJS-Tasks)
 
 - 🌱 I’m currently learning **Reactjs**  
@@ -18,6 +20,9 @@
 - 📫 How to reach me **minaromany101@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mina-romany-6828a4218/](https://www.linkedin.com/in/mina-romany-6828a4218/)
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
