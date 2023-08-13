@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, my name is Mina</h1>
-<h3 align="center">I'm a <span style="color: blue;">Web Developer</span>, Javascript Lover and Creative Technologist who turns caffeine into products, inventions and artworks.</h3>
+<h3 align="center">I'm a Web Developer, Javascript Lover and Creative Technologist who turns caffeine into products, inventions and artworks.</h3>
 
 <img
   align="right"
