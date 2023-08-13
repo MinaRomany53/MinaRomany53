@@ -5,7 +5,7 @@
   align="right"
   alt="Coding"
   width="400"
-  src="[file:///C:/Users/minar/OneDrive/Desktop/intro.webp](https://minaromany.online/intro.png)"
+  src="https://minaromany.online/intro.png"
 />
 
 
