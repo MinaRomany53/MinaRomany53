@@ -4,7 +4,7 @@
 <img
   align="right"
   alt="Coding"
-  width="400"
+  width="300"
   src="https://minaromany.online/intro.png"
 />
 
